@@ -106,8 +106,8 @@ section {
     letter-spacing: 1px;
     padding: 0 2px;
 }
-#profile .atas, #product .bawah{
-    height: 40%;
+#profile .bawah, #profile .atas{
+    width: 80%;
     aspect-ratio: 1/1;
 }
 #profile .row h5 {

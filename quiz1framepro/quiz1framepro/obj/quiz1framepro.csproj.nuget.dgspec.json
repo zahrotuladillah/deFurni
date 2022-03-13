@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\Downloads\\quiz1framepro\\quiz1framepro\\quiz1framepro.csproj": {}
+    "D:\\deFurni\\quiz1framepro\\quiz1framepro\\quiz1framepro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\Downloads\\quiz1framepro\\quiz1framepro\\quiz1framepro.csproj": {
+    "D:\\deFurni\\quiz1framepro\\quiz1framepro\\quiz1framepro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Downloads\\quiz1framepro\\quiz1framepro\\quiz1framepro.csproj",
+        "projectUniqueName": "D:\\deFurni\\quiz1framepro\\quiz1framepro\\quiz1framepro.csproj",
         "projectName": "quiz1framepro",
-        "projectPath": "C:\\Users\\LENOVO\\Downloads\\quiz1framepro\\quiz1framepro\\quiz1framepro.csproj",
+        "projectPath": "D:\\deFurni\\quiz1framepro\\quiz1framepro\\quiz1framepro.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\Downloads\\quiz1framepro\\quiz1framepro\\obj\\",
+        "outputPath": "D:\\deFurni\\quiz1framepro\\quiz1framepro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
